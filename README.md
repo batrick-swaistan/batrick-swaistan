@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Batrick Swaistan</h1>
 <h3 align="center">I'm a Python Programmer👨🏻‍💻</h3>
 
-- 🔭 I’m currently working on **University Admit Elegibility Checker using Data Science**
+- 🔭 I’m currently working on **Full Stack web solution for Campus Recruitment**
 
-- 🌱 I’m currently learning **Statistics for Data Science**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **Python**
 

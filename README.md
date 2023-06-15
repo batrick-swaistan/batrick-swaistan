@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Full Stack web solution for Campus Recruitment**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Front End Web Development**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **HTML,CSS,Python**
 
 - 📫 How to reach me **batrickswaistan@gmail.com**
 

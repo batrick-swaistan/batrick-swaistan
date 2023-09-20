@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batrick Swaistan</h1>
-<h3 align="center">I'm a Python Programmer👨🏻‍💻</h3>
+<h3 align="center">I'm a Front End Developer👨🏻‍💻</h3>
 
-- 🔭 I’m currently learning **React JS**
-
-- 🌱 I’m currently learning **Front End Web Development**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,Python,SQL**
 

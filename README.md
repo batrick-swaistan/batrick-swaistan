@@ -1,6 +1,6 @@
 # About Me  
 
 Hey, I'm **Batrick Swaistan**, a Software Engineer based in Kanyakumari.  
-I'm passionate about building innovative software solutions, with a strong focus on developing scalable applications. I excel in crafting intuitive **UI/UX** experiences, building robust **APIs**, and designing scalable architecture.  
+I'm passionate about building innovative software solutions, focusing on creating scalable applications and seamless user experiences. I also have experience working with databases and cloud technologies to deliver robust applications.
 
-More about me → [Your LinkedIn/GitHub/Portfolio link]  
+More about me → [Portfolio](https://batrick-swaistan-portfolio-new.vercel.app/)
